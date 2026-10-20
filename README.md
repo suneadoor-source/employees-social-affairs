@@ -1,1 +1,10 @@
-# employees-social-affairs
+# موظفو مبنى مديرية الشؤون الاجتماعية
+
+مشروع أولي لتطبيق أندرويد للتواصل الداخلي بين موظفي المديرية.
+
+## بناء APK
+بعد رفع المشروع إلى GitHub:
+1. افتح تبويب Actions.
+2. اختر Build APK.
+3. شغّل Run workflow.
+4. بعد انتهاء البناء افتح نتيجة التشغيل وحمّل Artifact باسم employees-social-affairs-apk.
